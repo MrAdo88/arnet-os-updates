@@ -1,0 +1,21 @@
+Date: Thu, 22 Oct 2026 10:11:19 +0000
+Description: Updates voor ARNET OS
+Label: ARNET OS
+Origin: ARNET OS
+Suite: stable
+MD5Sum:
+ 12831409a705da5d3a76bb5f4d30538c              815 Packages
+ 9fc5204eefc146e9b93d78291cdc3f1f              573 Packages.gz
+ 27235792de62da29130264eb1c3134a1              120 Release
+SHA1:
+ e2201f62d2781bf3bcbb32c5e3cbd95f8d322e0c              815 Packages
+ 68aa3a323efcb8f55f0c3147f1a8a44aa27abc6e              573 Packages.gz
+ ba422a0cd241e949205c6dd4234a1bd406899f04              120 Release
+SHA256:
+ fbed2a0cc0a781acea148b94984fd49e1d372864eb57afe46b8aef517e070bdb              815 Packages
+ b2af40ffdfde1a888d21f37690ed7d23250ccbd40d3368ec99d049b8927760ef              573 Packages.gz
+ fe0df98c15b25955fc69e01b9628fecb09d42d381f79a2a87d6d451afd7ac939              120 Release
+SHA512:
+ 5d2f9e693945caad8a3eb9d1e92669d57aeaff2abe9e5fb24be228c2ecef2fbb58a591df21336a73e8fa25270dff7384b396f734638cc692d02f4d94955c1b3f              815 Packages
+ e6e534748ea070c29efd8df519f75e6cae800bea817e59c68f75547880c08585dee9821a3299349a6483e55696ddd689c421fda1a98b5183dd805917bd1eafc4              573 Packages.gz
+ 92007be8f9cfa8770d2f5d7995fc38fb4f091e7fc8f5dbd545d849f6985afaf56e443b602ad178c8824f887b68c0b4c37f01ee4240b2a1bed445f81652bceb7c              120 Release
