@@ -1,0 +1,17 @@
+Package: arnet-command-center
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: misc
+Maintainer: ARNET OS
+Installed-Size: 41068
+Depends: libdbus-1-3, libnotify-bin, fonts-dejavu-core, ffmpeg, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: ./arnet-command-center_1.0.0_amd64.deb
+Size: 15695354
+MD5sum: 1a70635f5a8fc516b62431fbd6583c4e
+SHA1: 0ff5f8d088cfadacfdd82a9ccc7328eb8fee9d73
+SHA256: 97b0bfab34cd45eed558ecb2a7f10dcb34960f2087f6d244b78c01bb6cb8bc8c
+SHA512: 04c4acacced18baf936122556f618cc46641004116f1fa78dfad02f904743761fff482b0158ea1b284cacc4eece49665c7eab11ee777b21de784d24ab7301fe8
+Description: Stuurcentrum en agent-runtime voor je online bedrijf
+ Het ARNET Command Center is het dashboard van ARNET OS: overzicht van je bedrijf, AI-agents, goedkeuringen, actielogboek, noodstop en instellingen.
+

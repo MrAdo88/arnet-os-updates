@@ -1,0 +1,23 @@
+{
+  "version": "0.15.1",
+  "notes": "ARNET Desktop desktop-v0.15.1",
+  "pub_date": "2026-11-07T01:28:08Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cXFpYXdHN2V5djV6M3JrSWZjYmh4MjU3bkJNYzFEL2FWZVRINjNlaE9NN1kyMHc1WWoycUF6U3JxYjJyaFpxeWwwS2dJUXRRNFFjbUxqaUdxK1BMQUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyNTA2CWZpbGU6QVJORVQgRGVza3RvcF8wLjE1LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTUuMQoyanZTOHJjMkRyMnk4SUlQMzJ4QUdZMC9PZnI4NENURUlLOGlMbTZDNVBTMmtIanFxRFY3QXR2bDUwN1Bxb1dOQzR5MWt2TittZ2NyY0s3TkQwZFRDZz09Cg==",
+      "url": "https://mrado88.github.io/arnet-os-updates/desktop/ARNET-Desktop_0.15.1_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cWw0Y0pCd2tNNHN2UVhpZGVzRGRRcW5SL1B0RlNJR09HaG1VRzA0Q25qanJWRTQ1S2E0YU1XTG00dXhkNnhKRC9LYllPT283aGd4S3JsV1VjY0ZickF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyMjcyCWZpbGU6QVJORVQgRGVza3RvcC5hcHAudGFyLmd6CXZlcnNpb246MC4xNS4xCi9LSnRndkhXVmJ5SmhTT2FibytUL1VRUnk1K1AvaTA4OHVhZjNPeU43NHFDRjQyeXBoeXZvV0hITlJMc01ZUEUwLzZJc2wvaGJCUm9ZWGxyT29NTUFRPT0K",
+      "url": "https://mrado88.github.io/arnet-os-updates/desktop/ARNET-Desktop.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cWw0Y0pCd2tNNHN2UVhpZGVzRGRRcW5SL1B0RlNJR09HaG1VRzA0Q25qanJWRTQ1S2E0YU1XTG00dXhkNnhKRC9LYllPT283aGd4S3JsV1VjY0ZickF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyMjcyCWZpbGU6QVJORVQgRGVza3RvcC5hcHAudGFyLmd6CXZlcnNpb246MC4xNS4xCi9LSnRndkhXVmJ5SmhTT2FibytUL1VRUnk1K1AvaTA4OHVhZjNPeU43NHFDRjQyeXBoeXZvV0hITlJMc01ZUEUwLzZJc2wvaGJCUm9ZWGxyT29NTUFRPT0K",
+      "url": "https://mrado88.github.io/arnet-os-updates/desktop/ARNET-Desktop.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cWhva1ppVVkwN0ZQU2drKy8rb3MzdmY0MVJGaUQ5bmJXcHNJVXBIRzVDd25WdkJ3RHpKVnV0bTBiYnJCdGYxWUhQZm9KQXc1bjJBcVJBZjg0elZYZndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyMjk5CWZpbGU6QVJORVQgRGVza3RvcF8wLjE1LjFfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjE1LjEKMHAxY2U4N082NThraU1MQllPTVBaTFUzL2R0dHNURkZkVDlMdVdZQmRBeWFORXI0Q3pWRktxRmg4cWFsZHc4UFRBYVlMT2hFVlNMQTJyT3IrOHc4QWc9PQo=",
+      "url": "https://mrado88.github.io/arnet-os-updates/desktop/ARNET-Desktop_0.15.1_amd64.AppImage"
+    }
+  }
+}
