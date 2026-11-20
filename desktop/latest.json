@@ -1,0 +1,23 @@
+{
+  "version": "0.24.22",
+  "notes": "ARNET Desktop desktop-v0.24.22",
+  "pub_date": "2026-11-20T21:45:16Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cWpwRXpaSDJPVFJoYWlPZTBlSXBwTUNweEJMd1BWRDdoOVlaUjdmZHJaMDdMMXBzem0yb3ljck00UG1HSEo2V01RVUNOL2VQeUN0UUZtY1duR2p4YXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjEwNDU5CWZpbGU6QVJORVQgRGVza3RvcF8wLjI0LjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI0LjIyCndDNys4VWNqWWFpdGhmaU81STNEQ3BZNHJjbVNSTkdjODVJZC9ScnM3V1p1dXlQTEVoRjFhK2w2R3kva2FRNWp6Yi9YTXVXcldLRUduMUU0MEg2SkNnPT0K",
+      "url": "https://raw.githubusercontent.com/MrAdo88/arnet-os-updates/bestanden/desktop/ARNET-Desktop_0.24.22_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cXBjQURPMEMxWXVXOUVJTmFHdlpOZnVIUFB5VUhNM2YvZWNBTGV1eEpXWnJMTGEyQ0RkZ3ZxcXVUUnFsdWRpYVgrQi9DdzF1UmsvYmJhNGFiN2xNNkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjA5NzA4CWZpbGU6QVJORVQgRGVza3RvcC5hcHAudGFyLmd6CXZlcnNpb246MC4yNC4yMgpNQmVwcFZRZ0lHWmdER3h4MElHTTRZQm5aaGRWRUhndXB4WmNISlA1N2ZnbjJQNjhOVWQ3U015b0xoMStYajU1YkEzRC9QQWtMN2kxZmtGWElaTHVDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/MrAdo88/arnet-os-updates/bestanden/desktop/ARNET-Desktop.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cXBjQURPMEMxWXVXOUVJTmFHdlpOZnVIUFB5VUhNM2YvZWNBTGV1eEpXWnJMTGEyQ0RkZ3ZxcXVUUnFsdWRpYVgrQi9DdzF1UmsvYmJhNGFiN2xNNkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjA5NzA4CWZpbGU6QVJORVQgRGVza3RvcC5hcHAudGFyLmd6CXZlcnNpb246MC4yNC4yMgpNQmVwcFZRZ0lHWmdER3h4MElHTTRZQm5aaGRWRUhndXB4WmNISlA1N2ZnbjJQNjhOVWQ3U015b0xoMStYajU1YkEzRC9QQWtMN2kxZmtGWElaTHVDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/MrAdo88/arnet-os-updates/bestanden/desktop/ARNET-Desktop.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cXRBeURXa1duelpWdXUzSlZqV0R5UWhxNE5PSWt3dWluVWhuNW80UWhVb1JuZVNkTXBKbS8yZVZFcXQzTEdkZGJRRmFvWXpNZnVwUFg2bkxVVUVBWWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjA5ODQ2CWZpbGU6QVJORVQgRGVza3RvcF8wLjI0LjIyX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4yNC4yMgpITllleFRtTXlzdlE5SjNCSm5GNHF5VTkxOEowUFg0Sit5Nk5xYm5lVEhWa0dVN3R2SkVOUzROK3BnZGNJcnpjSzN0V09QL0w5ODBhSjI0UDZsdVNBUT09Cg==",
+      "url": "https://raw.githubusercontent.com/MrAdo88/arnet-os-updates/bestanden/desktop/ARNET-Desktop_0.24.22_amd64.AppImage"
+    }
+  }
+}
