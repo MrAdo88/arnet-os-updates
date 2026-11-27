@@ -1,0 +1,19 @@
+{
+  "version": "0.24.53",
+  "notes": "ARNET Desktop desktop-v0.24.53",
+  "pub_date": "2026-11-27T22:59:44Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cWhlckhDemtjZlAwekZaMUFvSC9jTjFzR3dRY1dEN0ZzMnlWak1CWmZvSXVHUHlwaEcybTRWcjd5NlAzQkx0SEJTOTBoWWVVU2NFZWI1WkFOSm5XVmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODE5NzI1CWZpbGU6QVJORVQgRGVza3RvcF8wLjI0LjUzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI0LjUzCjNhaUpIUUJ5RWdFNWdqVTlWaU1FUEJXQkUwZnFIMHBtOG9BQWhEMzZXRnFKN0hXeGg4Rll6bmpLMDBzdUk2TVNLQlozUzVMamMrY2JhakdLYis1NURnPT0K",
+      "url": "https://raw.githubusercontent.com/MrAdo88/arnet-os-updates/bestanden/desktop/ARNET-Desktop_0.24.53_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cWptMTIwUFFCalUvaDVxVGdrcWZJZjVOV1AzeGVlemF1TElneko1WUxsc0EycG1OdDAvSEF0ZW54ZlJzbU5WU2s1Mnl1dmF2U05UYmc3SEZRRmtPMGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODE5MjI0CWZpbGU6QVJORVQgRGVza3RvcC5hcHAudGFyLmd6CXZlcnNpb246MC4yNC41Mwpzb2EzQ3kvWVgyWUFmd2dPWmt3eUdDclF4N3BIOFRPQWtpelNJU1lRdkd4NDZsTVdnZms0Z21Fd1pCMyt5OHFpQ1JadURKeXpnaHl0cm43NzMyVUhBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/MrAdo88/arnet-os-updates/bestanden/desktop/ARNET-Desktop.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmsxRm04RHc0cWptMTIwUFFCalUvaDVxVGdrcWZJZjVOV1AzeGVlemF1TElneko1WUxsc0EycG1OdDAvSEF0ZW54ZlJzbU5WU2s1Mnl1dmF2U05UYmc3SEZRRmtPMGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODE5MjI0CWZpbGU6QVJORVQgRGVza3RvcC5hcHAudGFyLmd6CXZlcnNpb246MC4yNC41Mwpzb2EzQ3kvWVgyWUFmd2dPWmt3eUdDclF4N3BIOFRPQWtpelNJU1lRdkd4NDZsTVdnZms0Z21Fd1pCMyt5OHFpQ1JadURKeXpnaHl0cm43NzMyVUhBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/MrAdo88/arnet-os-updates/bestanden/desktop/ARNET-Desktop.app.tar.gz"
+    }
+  }
+}
